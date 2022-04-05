@@ -1,6 +1,6 @@
 # gibbons-crossing-bridges
-
-<a href="https://github.com/norberello/social-play-in-adult-howler-monkeys/blob/main/social%20adult%20play%20in%20howler%20monkeys%20study%20RScripts%20.ipynb"> R scripts </a> and <a href="https://github.com/norberello/social-play-in-adult-howler-monkeys/tree/main/data"> data </a> used in the study "Movement dynamics of gibbons after the construction of canopy bridges over a park road"
+<p>
+<a href="https://github.com/norberello/gibbons-crossing-bridges/blob/main/gibbons%20crossing%20script.ipynb"> R scripts </a> and data  used in the study "Movement dynamics of gibbons after the construction of canopy bridges over a park road"
 
 <p class="aligncenter">
     <img src="gibbons using bridges.png" alt="centered image" />
